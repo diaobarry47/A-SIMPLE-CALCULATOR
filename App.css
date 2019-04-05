@@ -1,0 +1,22 @@
+.container{
+	margin-top: 200px;
+}
+.got{
+	margin-left: 370px;
+	margin-right: 430px;
+	background-color: lightblue;
+	position: relative;
+	padding: 0;
+	padding: 0 18px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: 1px solid;
+	border-radius: 10px;
+	font-size: 22px;
+	letter-spacing: 2px;
+	padding-left: 34px;
+	font-family: time new roman;
+}
+.Calculator{
+	margin-left: 25px;
+}
